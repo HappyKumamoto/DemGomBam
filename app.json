@@ -1,0 +1,8 @@
+{
+  "name": "DemGomBam",
+  "description": "なんでも伝言板",
+  "repository": "https://github.com/HappyKumamoto/DemGomBam",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
